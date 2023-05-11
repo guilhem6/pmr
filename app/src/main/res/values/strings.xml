@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP TP1</string>
+    <string name="hello_app">Hello App!</string>
+    <string name="nom">Nom :</string>
+    <string name="ok">OK</string>
+    <string name="hint">hint</string>
+    <string name="name">Name</string>
+</resources>
